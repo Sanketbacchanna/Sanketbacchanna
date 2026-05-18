@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sanketbacchanna&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Sanketbacchanna&theme=tokyonight" height="170"/>
 </p>
----
+
 
 # 🔥 Featured Projects
 
