@@ -20,6 +20,9 @@
 # 💫 About Me
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,git,github,vscode" />
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+MySQL+%7C+WebRTC;Real-Time+Application+Developer;"/>
 </p>
 
