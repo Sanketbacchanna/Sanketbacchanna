@@ -43,13 +43,13 @@
 ---
 
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanketBacchanna&show_icons=true&theme=tokyonight)
+<img src="https://github-profile-trophy.vercel.app/?username=SanketBacchanna&theme=tokyonight&no-frame=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SanketBacchanna&theme=tokyonight)
+## 👀 Profile Views
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketBacchanna&layout=compact&theme=tokyonight)
+<img src="https://komarev.com/ghpvc/?username=SanketBacchanna&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 ---
 
