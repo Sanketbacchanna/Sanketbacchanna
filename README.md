@@ -40,66 +40,128 @@
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 🚨 SafeGuard SOS App
+## 💬 Chat Application
 
-> Emergency alert application designed for safety and rapid response.
+🔹 Real-time chat platform with instant messaging.
 
-✨ Features
+**Tech Stack:** Node.js, Express.js, Socket.IO, MySQL
 
-* Live Location Sharing
-* Emergency Contact Alerts
-* Instant SOS Trigger
-* Firebase Integration
+**Features:**
 
-🛠️ **Tech Stack:** HTML • CSS • JavaScript • Firebase
+* Real-time messaging
+* Emoji support
+* Image sharing
+* Typing indicators
+* Responsive UI
 
----
-
-### 💬 Real-Time Chat Application
-
-> Real-time communication platform with rich messaging features.
-
-✨ Features
-
-* Instant Messaging
-* Emoji Support
-* Image Sharing
-* Typing Indicators
-* Auto Responses
-
-🛠️ **Tech Stack:** Node.js • Express.js • Socket.IO • MySQL
+🔗 **Live Demo:** Add Link
+📂 **Repository:** Chat-Application
 
 ---
 
-### 📹 WebRTC Video Call App
+## 📹 WebRTC Video Call App
 
-> Peer-to-peer video communication platform.
+🔹 Peer-to-peer video communication application.
 
-✨ Features
+**Tech Stack:** WebRTC, JavaScript, Node.js
 
-* HD Video Calling
-* Audio Communication
-* Mobile & Desktop Support
-* Real-Time Streaming
+**Features:**
 
-🛠️ **Tech Stack:** WebRTC • Node.js • JavaScript
+* HD video calls
+* Audio communication
+* Mobile support
+* Real-time streaming
+
+🔗 **Live Demo:** Add Link
 
 ---
 
-### 📊 Sales Data Analytics Dashboard
+## 🚨 SafeGuard SOS App
 
-> Interactive dashboard for analyzing sales data and business insights.
+🔹 Women safety application with emergency alerts.
 
-✨ Features
+**Tech Stack:** HTML, CSS, JavaScript, Firebase
 
-* CSV Upload
-* Data Processing
-* Interactive Charts
-* Sales Performance Analysis
+**Features:**
 
-🛠️ **Tech Stack:** Python • Flask • Pandas • Chart.js
+* SOS alerts
+* Live location sharing
+* Emergency contacts
+* Fast notifications
+
+---
+
+## 🛒 Smart Product Price Comparison
+
+🔹 Compare products across multiple platforms.
+
+**Tech Stack:** HTML, CSS, JavaScript, API Integration
+
+**Features:**
+
+* Price comparison
+* Product search
+* User-friendly interface
+* Smart recommendations
+
+---
+
+## 🎨 Skin Hue & Texture Analyser
+
+🔹 AI-powered skin analysis system.
+
+**Tech Stack:** Python, AI/ML
+
+**Features:**
+
+* Skin tone detection
+* Texture analysis
+* Personalized insights
+
+---
+
+## ♻️ E-Waste Management System
+
+🔹 Platform for responsible e-waste disposal.
+
+**Tech Stack:** Web Technologies
+
+**Features:**
+
+* E-waste tracking
+* Collection requests
+* Environmental awareness
+
+---
+
+## 🍔 Foodie
+
+🔹 Online food ordering and restaurant browsing platform.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+**Features:**
+
+* Restaurant listings
+* Fast-food menu
+* Responsive design
+
+---
+
+## 🌐 Personal Portfolio
+
+🔹 Professional developer portfolio website.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+**Features:**
+
+* Project showcase
+* Skills section
+* Contact form
+* Responsive design
 
 ---
 
