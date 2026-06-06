@@ -32,12 +32,11 @@
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,firebase,git,github,vscode" />
-</p>
-
+⚡ Tech Universe
+Frontend
+Backend
+Database
+Tools
 ---
 
 # 🚀 Featured Projects
