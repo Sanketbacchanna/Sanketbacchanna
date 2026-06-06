@@ -3,7 +3,7 @@
 ### 🚀 Full Stack Developer | Real-Time App Builder | Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Real-Time+Applications;Node.js+%7C+MySQL+%7C+WebRTC;Cybersecurity+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Real-Time+Applications;Node.js+%7C+MySQL+%7C+WebRTC;Always+Learning+🚀" />
 </p>
 
 <p align="center">
