@@ -1,220 +1,176 @@
-<div align="center">
-
 # 👋 Hi, I'm Sanket Bacchanna
 
-### 🚀 Full Stack Developer • Real-Time App Builder • Problem Solver
+### 🚀 Full Stack Developer | Real-Time App Builder | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Building+Real-Time+Applications;Node.js+%7C+MySQL+%7C+WebRTC;Turning+Ideas+Into+Software;Always+Learning+Something+New+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Real-Time+Applications;Node.js+%7C+MySQL+%7C+WebRTC;Cybersecurity+Enthusiast;Always+Learning+🚀" />
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sanketbacchanna&label=Visitors&color=00CFFF&style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanketbacchanna&label=Profile+Views&color=00CFFF&style=for-the-badge"/>
+</p>
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 ## 💫 About Me
 
-🔹 Passionate Full Stack Developer
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🔹 Building Real-Time Chat & Video Call Applications
+🚀 Passionate Full Stack Developer
 
-🔹 Exploring Cybersecurity & Modern Web Technologies
+💬 Building Real-Time Chat & Video Applications
 
-🔹 Love solving real-world problems through software
+🔐 Exploring Cybersecurity & Modern Web Technologies
 
-🔹 Strong believer in practical learning & project-based growth
+🌱 Continuously Learning New Skills
 
-🔹 Goal: Become a Professional Software Engineer
+⚡ Love Solving Real-World Problems Through Software
+
+🎯 Goal: Become a Professional Software Engineer
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Universe
+## 🚀 Tech Stack
 
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,firebase,git,github,vscode" />
+</p>
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
-<table>
-<tr>
+### 🚨 SafeGuard SOS App
 
-<td width="50%">
-
-### 💬 Real-Time Chat App
-
-📌 Real-time messaging platform
+> Emergency alert application designed for safety and rapid response.
 
 ✨ Features
 
-* Live Messaging
-* Image Sharing
+* Live Location Sharing
+* Emergency Contact Alerts
+* Instant SOS Trigger
+* Firebase Integration
+
+🛠️ **Tech Stack:** HTML • CSS • JavaScript • Firebase
+
+---
+
+### 💬 Real-Time Chat Application
+
+> Real-time communication platform with rich messaging features.
+
+✨ Features
+
+* Instant Messaging
 * Emoji Support
+* Image Sharing
 * Typing Indicators
 * Auto Responses
 
-**Tech:** Node.js • Socket.IO • MySQL
+🛠️ **Tech Stack:** Node.js • Express.js • Socket.IO • MySQL
 
-</td>
+---
 
-<td width="50%">
+### 📹 WebRTC Video Call App
 
-### 📹 Video Call App
-
-📌 WebRTC-based communication
+> Peer-to-peer video communication platform.
 
 ✨ Features
 
-* HD Video Calls
-* Audio Calling
-* Mobile Support
-* Peer-to-Peer Connection
+* HD Video Calling
+* Audio Communication
+* Mobile & Desktop Support
+* Real-Time Streaming
 
-**Tech:** WebRTC • Node.js
+🛠️ **Tech Stack:** WebRTC • Node.js • JavaScript
 
-</td>
+---
 
-</tr>
+### 📊 Sales Data Analytics Dashboard
 
-<tr>
-
-<td width="50%">
-
-### 🚨 SafeGuard SOS
-
-📌 Women Safety Application
-
-✨ Features
-
-* Emergency Alerts
-* Live Location Sharing
-* Instant SOS Button
-
-**Tech:** Firebase • JavaScript
-
-</td>
-
-<td width="50%">
-
-### 📊 Sales Analytics Dashboard
-
-📌 Business Data Insights
+> Interactive dashboard for analyzing sales data and business insights.
 
 ✨ Features
 
 * CSV Upload
+* Data Processing
 * Interactive Charts
-* Analytics Dashboard
+* Sales Performance Analysis
 
-**Tech:** Flask • Pandas • Chart.js
-
-</td>
-
-</tr>
-</table>
+🛠️ **Tech Stack:** Python • Flask • Pandas • Chart.js
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanketbacchanna&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanketbacchanna&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketbacchanna&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketbacchanna&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Sanketbacchanna&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanketbacchanna&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanketbacchanna&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketbacchanna&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanketbacchanna&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 📈 Contribution Graph
 
-✅ Master Advanced Node.js
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketbacchanna&theme=tokyo-night&hide_border=true"/>
+</p>
 
-✅ Learn Cloud Deployment
+---
 
-✅ Improve Cybersecurity Skills
+## 🎯 Current Goals
 
-✅ Build SaaS Products
-
-✅ Contribute to Open Source
+* ✅ Master Advanced Node.js
+* ✅ Learn Cloud Deployment
+* ✅ Improve Cybersecurity Skills
+* ✅ Build SaaS Applications
+* ✅ Contribute to Open Source
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Sanketbacchanna">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sanketbacchanna">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-6kn3.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=google-chrome"/>
+<img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:sanketbacchanna@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+## ⚡ Fun Fact
 
-### 💡 "Great software is built one problem at a time."
+💡 I enjoy building real-time applications, experimenting with new technologies, and turning creative ideas into impactful software.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0077FF&height=180&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0077ff&height=150&section=footer"/>
+</p>
