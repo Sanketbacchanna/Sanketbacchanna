@@ -32,7 +32,7 @@
 
 ---
 
-⚡ Tech Universe
+##⚡ Tech Universe
 Frontend
 Backend
 Database
