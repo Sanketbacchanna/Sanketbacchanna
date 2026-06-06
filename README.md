@@ -38,7 +38,7 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ⚙️ Backend
@@ -50,19 +50,19 @@
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ☁️ Cloud & Hosting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=netlify,render" />
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ### 🔥 Special Technologies
@@ -75,8 +75,6 @@
 * 🔌 Socket.IO
 * 🌐 REST APIs
 * 📱 Progressive Web Apps (PWA)
-* 🔐 Cybersecurity Basics
-* 📊 Data Analytics
 
 </p>
 
