@@ -95,7 +95,7 @@
 * Typing indicators
 * Responsive UI
 
-🔗 **Live Demo:** Add Link
+🔗 **Live Demo:** https://chat-application-lk1e.onrender.com/
 📂 **Repository:** Chat-Application
 
 ---
