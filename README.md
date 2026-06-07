@@ -31,7 +31,6 @@
 <br clear="right"/>
 
 ---
-## ⚡ Tech Universe
 
 ## ⚡ Tech Universe
 
