@@ -56,7 +56,7 @@
 ### ☁️ Cloud & Hosting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=netlify,render" />
+  <img src="https://skillicons.dev/icons?i=netlify" />
 </p>
 
 ### 🛠️ Tools & Platforms
