@@ -113,7 +113,7 @@
 * Mobile support
 * Real-time streaming
 
-🔗 **Live Demo:** Add Link
+🔗 **Live Demo:** https://chat-application-lk1e.onrender.com/personal_chat.html
 
 ---
 
