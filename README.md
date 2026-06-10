@@ -59,13 +59,12 @@
   <img src="https://cdn.simpleicons.org/netlify" height="48" alt="netlify" />
   <img src="https://cdn.simpleicons.org/vercel" height="48" alt="Vercel" />
   <img src="https://cdn.simpleicons.org/firebase" height="48" alt="Firebase" />
-  <img src="https://cdn.simpleicons.org/railway" height="48" alt="Railway" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://cdn.simpleicons.org/railway" height="48" alt="Railway" /> 
 </p>
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ### 🔥 Special Technologies
