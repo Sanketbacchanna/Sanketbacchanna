@@ -65,7 +65,7 @@
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=render" />
 </p>
 
 ### 🔥 Special Technologies
