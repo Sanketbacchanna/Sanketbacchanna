@@ -1,235 +1,151 @@
 # 👋 Hi, I'm Sanket Bacchanna
 
-### 🚀 Full Stack Developer | Real-Time App Builder | Problem Solver
+<h3 align="center">Full Stack Developer | Real-Time Application Developer | MCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Real-Time+Applications;Node.js+%7C+MySQL+%7C+WebRTC;Always+Learning+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanketbacchanna&label=Profile+Views&color=00CFFF&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Real-Time+Application+Developer;Node.js+%7C+React+%7C+MySQL;Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🚀 Passionate Full Stack Developer
-
-💬 Building Real-Time Chat & Video Applications
-
-🔐 Exploring Cybersecurity & Modern Web Technologies
-
-🌱 Continuously Learning New Skills
-
-⚡ Love Solving Real-World Problems Through Software
-
-🎯 Goal: Become a Professional Software Engineer
-
-<br clear="right"/>
+* 🎓 MCA Student passionate about software development
+* 💻 Building real-time web applications using Socket.IO and WebRTC
+* 🌱 Learning advanced backend development and cloud deployment
+* 🔐 Exploring Cybersecurity and Secure Application Development
+* 🚀 Interested in Full Stack Development and SaaS Products
+* 🎯 Goal: Become a Professional Software Engineer
 
 ---
 
-## ⚡ Tech Universe
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
 
-### ⚙️ Backend
+### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
-</p>
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
 
-### 🗄️ Database
+### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### ☁️ Cloud & Hosting
+### Tools
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/render" height="48" alt="render" />
-  <img src="https://cdn.simpleicons.org/netlify" height="48" alt="netlify" />
-  <img src="https://cdn.simpleicons.org/vercel" height="48" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/firebase" height="48" alt="Firebase" />
-  <img src="https://cdn.simpleicons.org/railway" height="48" alt="Railway" /> 
-</p>
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-
-### 🔥 Special Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=webstorm" />
-</p>
-
-* 📹 WebRTC
-* 🔌 Socket.IO
-* 🌐 REST APIs
-* 📱 Progressive Web Apps (PWA)
-
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ## 💬 Chat Application
 
-🔹 Real-time chat platform with instant messaging.
+Real-time chat platform built using Socket.IO and MySQL.
+
+### Features
+
+* Real-time messaging
+* Typing indicators
+* Emoji support
+* Image sharing
+* Responsive UI
 
 **Tech Stack:** Node.js, Express.js, Socket.IO, MySQL
 
-**Features:**
-
-* Real-time messaging
-* Emoji support
-* Image sharing
-* Typing indicators
-* Responsive UI
-
-🔗 **Live Demo:** https://chat-application-lk1e.onrender.com/
-📂 **Repository:** Chat-Application
+🔗 Live Demo: https://chat-application-lk1e.onrender.com/
 
 ---
 
-## 📹 WebRTC Video Call App
+## 📹 WebRTC Video Calling Application
 
-🔹 Peer-to-peer video communication application.
+Peer-to-peer video communication platform.
+
+### Features
+
+* Video calling
+* Audio communication
+* Real-time connection
+* Mobile-friendly design
 
 **Tech Stack:** WebRTC, JavaScript, Node.js
 
-**Features:**
-
-* HD video calls
-* Audio communication
-* Mobile support
-* Real-time streaming
-
-🔗 **Live Demo:** https://chat-application-lk1e.onrender.com/personal_chat.html
-
 ---
 
-## 🚨 SafeGuard SOS App
+## 🚨 SafeGuard SOS
 
-🔹 Women safety application with emergency alerts.
+Emergency assistance and women safety application.
+
+### Features
+
+* SOS Alerts
+* Emergency Contacts
+* Live Location Sharing
+* Instant Notifications
 
 **Tech Stack:** HTML, CSS, JavaScript, Firebase
-
-**Features:**
-
-* SOS alerts
-* Live location sharing
-* Emergency contacts
-* Fast notifications
-
----
-
-## 🛒 Smart Product Price Comparison
-
-🔹 Compare products across multiple platforms.
-
-**Tech Stack:** HTML, CSS, JavaScript, API Integration
-
-**Features:**
-
-* Price comparison
-* Product search
-* User-friendly interface
-* Smart recommendations
-
----
-
-## 🎨 Skin Hue & Texture Analyser
-
-🔹 AI-powered skin analysis system.
-
-**Tech Stack:** Python, AI/ML
-
-**Features:**
-
-* Skin tone detection
-* Texture analysis
-* Personalized insights
 
 ---
 
 ## ♻️ E-Waste Management System
 
-🔹 Platform for responsible e-waste disposal.
+Platform for responsible e-waste collection and disposal.
 
-**Tech Stack:** Web Technologies
+### Features
 
-**Features:**
-
-* E-waste tracking
-* Collection requests
-* Environmental awareness
-
----
-
-## 🍔 Foodie
-
-🔹 Online food ordering and restaurant browsing platform.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-**Features:**
-
-* Restaurant listings
-* Fast-food menu
-* Responsive design
+* Collection Requests
+* Waste Tracking
+* Awareness System
+* User Dashboard
 
 ---
 
-## 🌐 Personal Portfolio
+## 🌐 Portfolio Website
 
-🔹 Professional developer portfolio website.
+### Features
 
-**Tech Stack:** HTML, CSS, JavaScript
+* Responsive Design
+* Project Showcase
+* Skills Section
+* Contact Form
 
-**Features:**
-
-* Project showcase
-* Skills section
-* Contact form
-* Responsive design
+🔗 Portfolio: https://portfolio-6kn3.onrender.com/
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanketbacchanna&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanketbacchanna&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketbacchanna&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketbacchanna&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketbacchanna&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🎯 Current Goals
-
-* ✅ Master Advanced Node.js
-* ✅ Learn Cloud Deployment
-* ✅ Improve Cybersecurity Skills
+* ✅ Advanced Node.js Development
+* ✅ Master React Ecosystem
+* ✅ Learn Cloud & DevOps
 * ✅ Build SaaS Applications
-* ✅ Contribute to Open Source
+* ✅ Contribute to Open Source Projects
 
 ---
 
@@ -249,17 +165,13 @@
 <img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:sanketbacchanna@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-💡 I enjoy building real-time applications, experimenting with new technologies, and turning creative ideas into impactful software.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanketbacchanna&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0077ff&height=150&section=footer"/>
