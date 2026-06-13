@@ -39,7 +39,7 @@
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### ☁️ Cloud & Hosting <p align="left"> <img src="https://cdn.simpleicons.org/render" height="48" alt="render" /> <img src="https://cdn.simpleicons.org/netlify" height="48" alt="netlify" /> <img src="https://cdn.simpleicons.org/vercel" height="48" alt="Vercel" /> <img src="https://cdn.simpleicons.org/firebase" height="48" alt="Firebase" /> <img src="https://cdn.simpleicons.org/railway" height="48" alt="Railway" /> </p>
+###  Cloud & Hosting <p align="left"> <img src="https://cdn.simpleicons.org/render" height="48" alt="render" /> <img src="https://cdn.simpleicons.org/netlify" height="48" alt="netlify" /> <img src="https://cdn.simpleicons.org/vercel" height="48" alt="Vercel" /> <img src="https://cdn.simpleicons.org/firebase" height="48" alt="Firebase" /> <img src="https://cdn.simpleicons.org/railway" height="48" alt="Railway" /> </p>
 
 ### Tools
 
