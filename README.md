@@ -1,67 +1,96 @@
 # 👋 Hi, I'm Sanket Bacchanna
 
-<h3 align="center">Full Stack Developer | Real-Time Application Developer | MCA Student</h3>
+<h3 align="center">Full Stack Developer | Node.js & React Developer | MCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Real-Time+Application+Developer;Node.js+%7C+React+%7C+MySQL;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Real-Time+Application+Developer;Node.js+%7C+React+%7C+MySQL;Cybersecurity+Enthusiast;Building+AI-Powered+Applications+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanketbacchanna&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 MCA Student passionate about software development
-* 💻 Building real-time web applications using Socket.IO and WebRTC
-* 🌱 Learning advanced backend development and cloud deployment
-* 🔐 Exploring Cybersecurity and Secure Application Development
-* 🚀 Interested in Full Stack Development and SaaS Products
-* 🎯 Goal: Become a Professional Software Engineer
+🎓 MCA Student passionate about building scalable web applications.
+
+💻 Experienced in developing real-time applications using Socket.IO, WebRTC, Node.js, and MySQL.
+
+🌱 Currently learning:
+- Cloud Computing
+- DevOps
+- Advanced Backend Development
+- Cybersecurity
+
+🎯 Career Goal:
+- Become a Professional Software Engineer
+- Build impactful SaaS products
+- Contribute to Open Source
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Currently Working On
+
+- 💬 Enhancing Real-Time Chat Application
+- 📹 WebRTC Video Calling Features
+- 🤖 AI-powered Security Solutions
+- ☁️ Cloud Deployment & DevOps
+- 🔐 Cybersecurity Projects
+
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
 ### Backend
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Python](https://skillicons.dev/icons?i=python)
-![PHP](https://skillicons.dev/icons?i=php)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
+</p>
 
 ### Database
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-###  Cloud & Hosting <p align="left"> <img src="https://cdn.simpleicons.org/render" height="48" alt="render" /> <img src="https://cdn.simpleicons.org/netlify" height="48" alt="netlify" /> <img src="https://cdn.simpleicons.org/vercel" height="48" alt="Vercel" /> <img src="https://cdn.simpleicons.org/firebase" height="48" alt="Firebase" /> <img src="https://cdn.simpleicons.org/railway" height="48" alt="Railway" /> </p>
+### Cloud & Hosting
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://cdn.simpleicons.org/render" height="48"/>
+<img src="https://cdn.simpleicons.org/netlify" height="48"/>
+<img src="https://cdn.simpleicons.org/vercel" height="48"/>
+<img src="https://cdn.simpleicons.org/railway" height="48"/>
+</p>
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# 📌 Featured Repositories
 
-## 💬 Chat Application
+### 💬 Chat Application
 
-Real-time chat platform built using Socket.IO and MySQL.
+Real-time messaging platform built using Socket.IO and MySQL.
 
-### Features
-
-* Real-time messaging
-* Typing indicators
-* Emoji support
-* Image sharing
-* Responsive UI
+**Features**
+- Real-time messaging
+- Typing indicators
+- Emoji support
+- Image sharing
+- Responsive UI
 
 **Tech Stack:** Node.js, Express.js, Socket.IO, MySQL
 
@@ -69,18 +98,89 @@ Real-time chat platform built using Socket.IO and MySQL.
 
 ---
 
+### 🚨 PhishGuard AI
+
+AI-powered phishing website detection system.
+
+**Features**
+- URL Analysis
+- Threat Detection
+- AI Prediction
+- Security Reports
+
+**Tech Stack:** Python, Machine Learning, Flask
+
+---
+
+### 🛒 Smart Product Price Comparison
+
+Compare product prices from different platforms.
+
+**Features**
+- Product Search
+- Price Comparison
+- User Friendly Interface
+- Responsive Design
+
+**Tech Stack:** React, Node.js, API Integration
+
+---
+
+### 🧠 Skin Hue and Texture Analyser
+
+AI-powered skin analysis project.
+
+**Features**
+- Skin Tone Analysis
+- Texture Detection
+- AI Processing
+- Detailed Results
+
+**Tech Stack:** Python, OpenCV, Machine Learning
+
+---
+
+### ♻️ E-Waste Management System
+
+Platform for responsible electronic waste collection.
+
+**Features**
+- Collection Requests
+- Waste Tracking
+- Dashboard
+- Awareness System
+
+---
+
+### 🎂 Birthday Surprise Website
+
+Interactive surprise website with animations and effects.
+
+**Features**
+- Beautiful Animations
+- Music Integration
+- Responsive Design
+- Interactive Experience
+
+---
+
+# 🚀 Major Projects
+
 ## 📹 WebRTC Video Calling Application
 
 Peer-to-peer video communication platform.
 
 ### Features
 
-* Video calling
-* Audio communication
-* Real-time connection
-* Mobile-friendly design
+- Video Calling
+- Audio Communication
+- Screen Sharing
+- Real-Time Connection
+- Mobile Friendly UI
 
-**Tech Stack:** WebRTC, JavaScript, Node.js
+### Tech Stack
+
+WebRTC, JavaScript, Node.js
 
 ---
 
@@ -90,25 +190,14 @@ Emergency assistance and women safety application.
 
 ### Features
 
-* SOS Alerts
-* Emergency Contacts
-* Live Location Sharing
-* Instant Notifications
+- SOS Alerts
+- Emergency Contacts
+- Live Location Sharing
+- Instant Notifications
 
-**Tech Stack:** HTML, CSS, JavaScript, Firebase
+### Tech Stack
 
----
-
-## ♻️ E-Waste Management System
-
-Platform for responsible e-waste collection and disposal.
-
-### Features
-
-* Collection Requests
-* Waste Tracking
-* Awareness System
-* User Dashboard
+HTML, CSS, JavaScript, Firebase
 
 ---
 
@@ -116,16 +205,17 @@ Platform for responsible e-waste collection and disposal.
 
 ### Features
 
-* Responsive Design
-* Project Showcase
-* Skills Section
-* Contact Form
+- Responsive Design
+- Project Showcase
+- Skills Section
+- Contact Form
+- Modern UI
 
 🔗 Portfolio: https://portfolio-6kn3.onrender.com/
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanketbacchanna&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -141,17 +231,35 @@ Platform for responsible e-waste collection and disposal.
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 GitHub Achievements
 
-* ✅ Advanced Node.js Development
-* ✅ Master React Ecosystem
-* ✅ Learn Cloud & DevOps
-* ✅ Build SaaS Applications
-* ✅ Contribute to Open Source Projects
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanketbacchanna&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketbacchanna&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Advanced Node.js Development
+- ✅ Master React Ecosystem
+- ✅ Learn Cloud & DevOps
+- ✅ Build SaaS Applications
+- ✅ Improve Cybersecurity Skills
+- ✅ Contribute to Open Source
+- ✅ Crack Software Engineering Roles
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -167,13 +275,25 @@ Platform for responsible e-waste collection and disposal.
 <img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanketbacchanna&theme=tokyonight&no-frame=true" />
-</p>
+# 💡 Fun Fact
+
+```javascript
+while(!success){
+    learn();
+    build();
+    improve();
+}
+```
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0077ff&height=150&section=footer"/>
