@@ -223,8 +223,7 @@ Personal portfolio showcasing projects, skills, and achievements.
 - Contact Section
 
 **Tech Stack:** HTML, CSS, JavaScript
-
-🔗 **Portfolio:** https://portfolio-6kn3.onrender.com/
+🔗 **Live Demo:** https://portfolio-6kn3.onrender.com/
 ---
 
 # 📊 GitHub Statistics
