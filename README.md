@@ -64,11 +64,27 @@
 ### Cloud & Hosting
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase" />
-<img src="https://cdn.simpleicons.org/render" height="48"/>
-<img src="https://cdn.simpleicons.org/netlify" height="48"/>
-<img src="https://cdn.simpleicons.org/vercel" height="48"/>
-<img src="https://cdn.simpleicons.org/railway" height="48"/>
+
+<a href="https://render.com">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
+<a href="https://www.netlify.com">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://vercel.com">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://firebase.google.com">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</a>
+
+<a href="https://railway.com">
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
+
 </p>
 
 ### Tools
