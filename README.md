@@ -97,138 +97,134 @@
 
 # 📌 Featured Repositories
 
-### 💬 Chat Application
+# 🌟 Featured Projects
 
-Real-time messaging platform built using Socket.IO and MySQL.
+## 💬 Chat Application
 
-**Features**
-- Real-time messaging
-- Typing indicators
-- Emoji support
-- Image sharing
+A real-time messaging platform built using Socket.IO and MySQL.
+
+### Features
+- Real-time Messaging
+- Typing Indicators
+- Emoji Support
+- Image Sharing
 - Responsive UI
 
 **Tech Stack:** Node.js, Express.js, Socket.IO, MySQL
 
-🔗 Live Demo: https://chat-application-lk1e.onrender.com/
+🔗 **Live Demo:** https://chat-application-lk1e.onrender.com/
 
 ---
 
-### 🚨 PhishGuard AI
+## 🚨 PhishGuard AI
 
-AI-powered phishing website detection system.
+AI-powered phishing website detection system that helps users identify malicious URLs.
 
-**Features**
+### Features
 - URL Analysis
-- Threat Detection
-- AI Prediction
-- Security Reports
+- AI-Based Detection
+- Security Alerts
+- Threat Identification
 
 **Tech Stack:** Python, Machine Learning, Flask
 
----
-
-### 🛒 Smart Product Price Comparison
-
-Compare product prices from different platforms.
-
-**Features**
-- Product Search
-- Price Comparison
-- User Friendly Interface
-- Responsive Design
-
-**Tech Stack:** React, Node.js, API Integration
+🔗 **Live Demo:** https://phish-guard-ai-pi.vercel.app/
 
 ---
 
-### 🧠 Skin Hue and Texture Analyser
+## 🍔 Foodie
 
-AI-powered skin analysis project.
+Modern food ordering and restaurant discovery platform.
 
-**Features**
-- Skin Tone Analysis
-- Texture Detection
+### Features
+- Food Browsing
+- Responsive UI
+- Menu Display
+- User-Friendly Design
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 **Live Demo:** https://foodie-18wp.onrender.com/
+
+---
+
+## 🧠 Skin Hue and Texture Analyser
+
+AI-powered application for analyzing skin tone and texture.
+
+### Features
+- Skin Tone Detection
+- Texture Analysis
 - AI Processing
 - Detailed Results
 
 **Tech Stack:** Python, OpenCV, Machine Learning
 
----
-
-### ♻️ E-Waste Management System
-
-Platform for responsible electronic waste collection.
-
-**Features**
-- Collection Requests
-- Waste Tracking
-- Dashboard
-- Awareness System
+🔗 **Live Demo:** https://skinhueandtextureanalyser.netlify.app/
 
 ---
 
-### 🎂 Birthday Surprise Website
+## 🛒 Smart Product Price Comparison
 
-Interactive surprise website with animations and effects.
+Compare product prices across different platforms and make smarter buying decisions.
 
-**Features**
-- Beautiful Animations
+### Features
+- Product Search
+- Price Comparison
+- Responsive Interface
+- Easy Navigation
+
+**Tech Stack:** React, Node.js, APIs
+
+🔗 **Live Demo:** https://smart-product-price-comparison.onrender.com/
+
+---
+
+## 🆘 Click-2-Help
+
+Emergency support and quick assistance platform.
+
+### Features
+- Instant Help Requests
+- User-Friendly Interface
+- Emergency Support
+- Fast Accessibility
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 **Live Demo:** https://click-2-help.onrender.com/
+
+---
+
+## 🎂 Birthday Surprise Website
+
+Interactive birthday celebration website with animations and music.
+
+### Features
+- Animated Effects
+- Personalized Messages
 - Music Integration
 - Responsive Design
-- Interactive Experience
 
----
+**Tech Stack:** HTML, CSS, JavaScript
 
-# 🚀 Major Projects
-
-## 📹 WebRTC Video Calling Application
-
-Peer-to-peer video communication platform.
-
-### Features
-
-- Video Calling
-- Audio Communication
-- Screen Sharing
-- Real-Time Connection
-- Mobile Friendly UI
-
-### Tech Stack
-
-WebRTC, JavaScript, Node.js
-
----
-
-## 🚨 SafeGuard SOS
-
-Emergency assistance and women safety application.
-
-### Features
-
-- SOS Alerts
-- Emergency Contacts
-- Live Location Sharing
-- Instant Notifications
-
-### Tech Stack
-
-HTML, CSS, JavaScript, Firebase
+🔗 **Live Demo:** https://birthdaywebsite-nan5.onrender.com/
 
 ---
 
 ## 🌐 Portfolio Website
 
-### Features
+Personal portfolio showcasing projects, skills, and achievements.
 
+### Features
+- Modern UI
 - Responsive Design
 - Project Showcase
-- Skills Section
-- Contact Form
-- Modern UI
+- Contact Section
 
-🔗 Portfolio: https://portfolio-6kn3.onrender.com/
+**Tech Stack:** HTML, CSS, JavaScript
 
+🔗 **Portfolio:** https://portfolio-6kn3.onrender.com/
 ---
 
 # 📊 GitHub Statistics
