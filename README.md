@@ -258,14 +258,6 @@ Interactive birthday celebration website.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sanketbacchanna/Sanketbacchanna/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 🎯 2026 Goals
 
 * ✅ Advanced Node.js Development
