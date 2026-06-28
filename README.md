@@ -130,14 +130,20 @@
 
 # 🌐 Live Projects
 
-| 🌍 Project | 🔗 Live Demo |
-|------------|--------------|
+| 🌍 Project | 🚀 Live Demo |
+|------------|-------------|
 | 💬 Chat Application | https://chat-application-lk1e.onrender.com |
 | 🚨 PhishGuard AI | https://phish-guard-ai-pi.vercel.app |
 | 🍔 Foodie | https://foodie-18wp.onrender.com |
-| 🧠 Skin Analyzer | https://skinhueandtextureanalyser.netlify.app |
+| 🧠 Skin Hue & Texture Analyzer | https://skinhueandtextureanalyser.netlify.app |
 | 🛒 Smart Product Price Comparison | https://smart-product-price-comparison.onrender.com |
 | 🆘 Click-2-Help | https://click-2-help.onrender.com |
+| 📄 PDF Text Extractor | *(Coming Soon)* |
+| 🔍 Plagiarism Checker | https://plagiarism-checker-ran3.onrender.com/ |
+| 📦 CodeVector Products | https://codevector-products-xj4r.onrender.com |
+| ♻️ E-Waste Management System | *(Coming Soon)* |
+| 🌱 NayePankh | https://nayepankh-hakg.onrender.com/ |
+| ☁️ AWS Serverless Registration App | *(AWS Deployment)* |
 | 🎂 Birthday Website | https://birthdaywebsite-nan5.onrender.com |
 | 🌐 Portfolio | https://portfolio-6kn3.onrender.com |
 
