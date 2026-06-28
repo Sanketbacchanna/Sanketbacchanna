@@ -134,6 +134,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
+
 ---
 
 # 🌟 Featured Projects
