@@ -58,13 +58,12 @@
 - 🚀 Deployed applications on Render, Netlify & Vercel
 
 ---
-
 # 🛠️ Tech Stack
 
-## 💻 Frontend
+## 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
 ---
@@ -72,7 +71,7 @@
 ## ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php" />
 </p>
 
 ---
@@ -80,32 +79,61 @@
 ## 🗄️ Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ---
 
-## ☁️ Cloud & Hosting
+## ☁️ Cloud & Deployment
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,firebase"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠️ Tools
+## 🔄 Real-Time Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+  <img src="https://skillicons.dev/icons?i=socketio" />
 </p>
 
+<p align="center">
+
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+</p>
+
+---
+
+## 🤖 AI & Data
+
+<p align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## 💻 Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
 ---
 
 # 🌟 Featured Projects
