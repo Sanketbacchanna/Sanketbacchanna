@@ -63,7 +63,7 @@
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ## ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ## 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## ☁️ Cloud & Deployment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
 <p align="center">
@@ -108,23 +108,13 @@
 
 </p>
 
----
-
-## 🤖 AI & Data
-
-<p align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</p>
 
 ---
 
 ## 🛠️ Developer Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
 </p>
 
 ---
@@ -132,7 +122,7 @@
 ## 💻 Operating Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://skillicons.dev/icons?i=windows" />
 </p>
 
 ---
