@@ -221,14 +221,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sanketbacchanna&theme=algolia&row=1&column=6&no-frame=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
