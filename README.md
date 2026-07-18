@@ -101,7 +101,6 @@
 </p>
 
 <p align="center">
-
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
@@ -219,23 +218,11 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanketbacchanna&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketbacchanna&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <br>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanketbacchanna&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
