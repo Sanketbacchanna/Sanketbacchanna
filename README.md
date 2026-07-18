@@ -18,60 +18,71 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 MCA Student passionate about Software Engineering and Full Stack Development.
-* 💻 Building scalable Web Applications, PWAs, and Real-Time Systems.
-* 🌱 Currently learning AWS Cloud, DevOps, Docker, Kubernetes and Advanced Backend Development.
-* 🔐 Interested in Cybersecurity, AI Applications and Cloud Technologies.
-* 🚀 Passionate about building impactful and production-ready applications.
-
-### 🎯 Career Goals
-
-* Become a Software Engineer.
-* Build SaaS Products.
-* Master Full Stack Development.
-* Contribute to Open Source Projects.
-* Build AI-Powered Applications.
-* Work with Cloud & Scalable Systems.
+- 🎓 MCA Student at St. Joseph Engineering College, Mangalore.
+- 💻 Passionate about Full Stack Development and Software Engineering.
+- 🌱 Exploring AI, Cybersecurity, Cloud Computing and DevOps.
+- 🚀 Building Real-Time Applications, PWAs and Modern Web Applications.
+- 🔐 Interested in Secure and Scalable Software Systems.
+- 📚 Constantly learning and improving through projects and open-source contributions.
 
 ---
 
-## ⚡ Quick Highlights
+# 🎯 Career Goals
 
-* 💬 Developed Real-Time Chat Application using Socket.IO & WebRTC.
-* 🤖 Built AI-powered Skin Hue & Texture Analyzer.
-* 🛡️ Developed PhishGuard AI for phishing detection.
-* 📄 Created PDF Text Extractor and Plagiarism Checker.
-* 🛒 Developed Smart Product Price Comparison System.
-* ♻️ Built E-Waste Management System.
-* 🆘 Developed Click-2-Help Emergency Assistance Platform.
-* ☁️ Worked on AWS Serverless Applications.
-* 🚀 Deployed applications using Render, Netlify and Vercel.
+- Become a Software Engineer.
+- Master Full Stack Development.
+- Build SaaS Products.
+- Learn Cloud Computing & DevOps.
+- Contribute to Open Source Projects.
+- Develop AI-Powered Applications.
+- Crack Software Engineering Roles.
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Quick Highlights
 
-### Frontend
+- 💬 Developed Real-Time Chat Application using Socket.IO & WebRTC.
+- 🤖 Built AI-powered Skin Hue & Texture Analyzer.
+- 🔐 Developed PhishGuard AI.
+- 📄 Created PDF Text Extractor and Plagiarism Checker.
+- 🛒 Developed Smart Product Price Comparison System.
+- ♻️ Built E-Waste Management System.
+- 🏥 Developed Medical Expenses Estimator.
+- ☁️ Worked on AWS Serverless Applications.
+- 📱 Developed Progressive Web Applications.
+- 🚀 Deployed Applications on Render, Netlify and Vercel.
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
-### Backend
+---
+
+## Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python"/>
 </p>
 
-### Database
+---
+
+## Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### Cloud & Deployment
+---
+
+## Cloud & Deployment
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify"/>
@@ -81,7 +92,9 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
-### Real-Time Technologies
+---
+
+## Real-Time Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=socketio"/>
@@ -89,18 +102,22 @@
 
 <p align="center">
 
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge\&logo=pwa\&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 </p>
 
-### Developer Tools
+---
+
+## Developer Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-### Operating Systems
+---
+
+## Operating Systems
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=windows"/>
@@ -108,80 +125,97 @@
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-| Project                         | Description                                         |
-| ------------------------------- | --------------------------------------------------- |
-| Chat Application                | Real-time messaging using Socket.IO, MySQL & WebRTC |
-| PhishGuard AI                   | AI-based phishing website detection                 |
-| Skin Hue & Texture Analyzer     | AI-powered skin analysis application                |
-| Foodie                          | Online Food Ordering Platform                       |
-| Smart Product Price Comparison  | Compare product prices across stores                |
-| Click-2-Help                    | Emergency Assistance Platform                       |
-| PDF Text Extractor              | Extract text from uploaded PDFs                     |
-| Plagiarism Checker              | Detect duplicate text using similarity analysis     |
-| CodeVector Products             | Product Management System                           |
-| E-Waste Management System       | Waste collection & recycling platform               |
-| NayePankh                       | NGO Management Platform                             |
-| Portfolio Website               | Personal Portfolio                                  |
-| AWS Serverless Registration App | Built using AWS Services                            |
+| Project | Description |
+|---------|-------------|
+| Chat Application | Real-time messaging using Socket.IO, MySQL & WebRTC |
+| PhishGuard AI | AI-powered phishing website detection |
+| Skin Hue & Texture Analyzer | AI-based skin analysis application |
+| Medical Expenses Estimator | Healthcare cost estimation platform |
+| Smart Product Price Comparison | Compare prices across multiple stores |
+| Click-2-Help | Emergency Assistance Platform |
+| Foodie | Full Stack Food Ordering Platform |
+| Amma's Kitchen | Restaurant Website |
+| PDF Text Extractor | Extract text from uploaded PDFs |
+| Plagiarism Checker | Detect duplicate text using similarity analysis |
+| Habit Tracker | Progressive Web Application |
+| E-Waste Management System | Waste collection & recycling platform |
+| NayePankh | NGO Management Platform |
+| AWS Serverless Registration App | Built using AWS Services |
+| Portfolio Website | Personal Portfolio |
+| Birthday Website | Responsive Web Design |
 
 ---
 
-## 🌐 Live Projects
+# 🌐 Live Projects
 
-| Project                        | Live Demo                                           |
-| ------------------------------ | --------------------------------------------------- |
-| Chat Application               | https://chat-application-lk1e.onrender.com          |
-| PhishGuard AI                  | https://phish-guard-ai-pi.vercel.app                |
-| Foodie                         | https://foodie-18wp.onrender.com                    |
-| Skin Hue & Texture Analyzer    | https://skinhueandtextureanalyser.netlify.app       |
+| Project | Live Demo |
+|---------|-----------|
+| Chat Application | https://chat-application-lk1e.onrender.com |
+| PhishGuard AI | https://phish-guard-ai-pi.vercel.app |
+| Foodie | https://foodie-18wp.onrender.com |
+| Skin Hue & Texture Analyzer | https://skinhueandtextureanalyser.netlify.app |
 | Smart Product Price Comparison | https://smart-product-price-comparison.onrender.com |
-| Click-2-Help                   | https://click-2-help.onrender.com                   |
-| Plagiarism Checker             | https://plagiarism-checker-ran3.onrender.com        |
-| CodeVector Products            | https://codevector-products-xj4r.onrender.com       |
-| NayePankh                      | https://nayepankh-hakg.onrender.com                 |
-| Birthday Website               | https://birthdaywebsite-nan5.onrender.com           |
-| Portfolio Website              | https://portfolio-6kn3.onrender.com                 |
+| Click-2-Help | https://click-2-help.onrender.com |
+| Medical Expenses Estimator | https://medical-expenses-estimator-with-range.onrender.com |
+| Plagiarism Checker | https://plagiarism-checker-ran3.onrender.com |
+| CodeVector Products | https://codevector-products-xj4r.onrender.com |
+| NayePankh | https://nayepankh-hakg.onrender.com |
+| Birthday Website | https://birthdaywebsite-nan5.onrender.com |
+| Portfolio Website | https://portfolio-6kn3.onrender.com |
 
 ---
 
-## 📂 Project Categories
+# 📂 Repository Categories
 
-### Real-Time Applications
+## 💬 Real-Time Applications
 
-* Chat Application
-* Click-2-Help
+- Chat Application
+- Click-2-Help
 
-### AI Projects
+### 🤖 AI Applications
 
-* PhishGuard AI
-* Skin Hue & Texture Analyzer
+- PhishGuard AI
+- Skin Hue & Texture Analyzer
 
-### Full Stack Applications
+### 🌐 Full Stack Applications
 
-* Foodie
-* Smart Product Price Comparison
-* Portfolio Website
-* Birthday Website
+- Foodie
+- Smart Product Price Comparison
+- Portfolio Website
+- Event Management Website
+- Amma's Kitchen
 
-### Productivity Tools
+### 📄 Productivity Tools
 
-* PDF Text Extractor
-* Plagiarism Checker
+- PDF Text Extractor
+- Plagiarism Checker
+- Medical Expenses Estimator
 
-### Social Impact Projects
+### 📱 Progressive Web Applications
 
-* NayePankh
-* E-Waste Management System
+- Habit Tracker
+- Chat Application (PWA)
 
-### Cloud Projects
+### 🌱 Social Impact Projects
 
-* AWS Serverless Registration App
+- NayePankh
+- E-Waste Management System
+
+### ☁️ Cloud Projects
+
+- AWS Serverless Registration App
+
+### 💼 Internship Projects
+
+- frontend-internship
+- web-dev-internship
+- codevector-products
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -191,13 +225,17 @@
 
 </p>
 
+<br>
+
 <p align="center">
+
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketbacchanna&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -207,7 +245,7 @@
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -217,34 +255,49 @@
 
 ---
 
-## 🚀 GitHub Highlights
+# 🚀 GitHub Highlights
 
-* 20+ Public Projects
-* Multiple Live Deployments
-* Full Stack Web Applications
-* AI Applications
-* Real-Time Systems
-* Cloud Computing Projects
-* Cybersecurity Applications
-* Responsive Web Applications
-* Open Source Learning
-
----
-
-## 🎯 2026 Goals
-
-* Learn Next.js
-* Master Node.js Backend Development
-* Learn Docker & Kubernetes
-* Build SaaS Products
-* Master AWS Cloud
-* Solve 500+ DSA Problems
-* Contribute to Open Source
-* Crack Software Engineering Roles
+- ⭐ 20+ Public Repositories
+- 🚀 12+ Live Hosted Projects
+- 💬 Real-Time Applications
+- 🤖 AI-Based Applications
+- ☁️ AWS Cloud Projects
+- 🔐 Cybersecurity Projects
+- 📱 Progressive Web Applications
+- 🌐 Full Stack Web Applications
+- 📊 Data Analytics Projects
+- 🚀 Multiple Deployments on Render, Netlify & Vercel
 
 ---
 
-## 📫 Connect With Me
+# 💡 Areas of Interest
+
+- Full Stack Development
+- Artificial Intelligence
+- Cybersecurity
+- Cloud Computing (AWS)
+- DevOps
+- Software Engineering
+- Progressive Web Applications
+- Real-Time Systems
+- Open Source Contribution
+
+---
+
+# 🎯 2026 Goals
+
+- Learn Next.js
+- Master Node.js Backend Development
+- Learn Docker & Kubernetes
+- Build SaaS Products
+- Master AWS Cloud
+- Solve 500+ DSA Problems
+- Contribute to Open Source
+- Crack Software Engineering Roles
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -268,7 +321,7 @@
 
 ---
 
-## 💡 Developer Motto
+# 💡 Developer Motto
 
 ```javascript
 while (!success) {
@@ -278,10 +331,12 @@ while (!success) {
 }
 ```
 
-> "Code. Learn. Build. Repeat."
+> ### "Code • Learn • Build • Repeat 🚀"
 
 ---
 
 <p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0077ff&height=150&section=footer"/>
+
 </p>
