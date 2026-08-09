@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Real-Time+Application+Developer;Node.js+%7C+React+%7C+MySQL;AI+%26+Cybersecurity+Enthusiast;Building+Modern+Web+Applications+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Real-Time+Application+Developer;Node.js+%7C+React+%7C+MySQL;Building+Modern+Web+Applications+🚀"/>
 </p>
 
 <p align="center">
