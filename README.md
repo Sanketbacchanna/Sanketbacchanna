@@ -137,7 +137,7 @@
 | Click-2-Help | Emergency Assistance Platform |
 | Foodie | Full Stack Food Ordering Platform |
 | Amma's Kitchen | Restaurant Website |
-| PDF Text Extractor | Extract text from uploaded PDFs |
+
 | Plagiarism Checker | Detect duplicate text using similarity analysis |
 | Habit Tracker | Progressive Web Application |
 | E-Waste Management System | Waste collection & recycling platform |
