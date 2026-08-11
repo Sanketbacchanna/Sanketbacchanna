@@ -46,7 +46,7 @@
 - 💬 Developed Real-Time Chat Application using Socket.IO & WebRTC.
 - 🤖 Built AI-powered Skin Hue & Texture Analyzer.
 - 🔐 Developed PhishGuard AI.
-- 📄 Created PDF Text Extractor and Plagiarism Checker.
+- 📄 Plagiarism Checker.
 - 🛒 Developed Smart Product Price Comparison System.
 - ♻️ Built E-Waste Management System.
 - 🏥 Developed Medical Expenses Estimator.
