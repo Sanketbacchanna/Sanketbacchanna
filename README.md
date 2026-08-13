@@ -189,7 +189,7 @@
 
 ### 📄 Productivity Tools
 
-- PDF Text Extractor
+
 - Plagiarism Checker
 - Medical Expenses Estimator
 
