@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-🚀 Full Stack Developer | MCA Student | AI 
+🚀 Full Stack Developer | MCA Student  
 </h3>
 
 <p align="center">
