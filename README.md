@@ -196,7 +196,7 @@
 ### 📱 Progressive Web Applications
 
 - Habit Tracker
-- Chat Application (PWA)
+- Chat Application
 
 ### 🌱 Social Impact Projects
 
