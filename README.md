@@ -226,9 +226,6 @@
 
 ---
 
-
-
-
 # 🚀 GitHub Highlights
 
 - ⭐ 20+ Public Repositories
