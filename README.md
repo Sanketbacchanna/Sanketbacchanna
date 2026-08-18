@@ -226,7 +226,7 @@
 
 ---
 
-# 📈 Contribution Graph
+
 
 
 # 🚀 GitHub Highlights
