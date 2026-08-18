@@ -228,10 +228,6 @@
 
 # 📈 Contribution Graph
 
-<p align="center">
-
-
----
 
 # 🚀 GitHub Highlights
 
