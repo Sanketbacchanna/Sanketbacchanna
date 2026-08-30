@@ -259,7 +259,7 @@
 
 - Learn Next.js
 - Master Node.js Backend Development
-- Learn Docker & Kubernetes
+
 - Build SaaS Products
 - Master AWS Cloud
 - Solve 500+ DSA Problems
