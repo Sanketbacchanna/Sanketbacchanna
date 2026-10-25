@@ -144,7 +144,7 @@
 | AWS Serverless Registration App | Built using AWS Services |
 | Portfolio Website | Personal Portfolio |
 | Birthday Website | Responsive Web Design |
-| Crop Yield | AI-based market price prediction
+| Crop Yield | AI-based market price prediction |
 
 ---
 
