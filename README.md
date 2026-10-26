@@ -245,7 +245,6 @@
 
 - Full Stack Development
 - Artificial Intelligence
-- Cybersecurity
 - Cloud Computing (AWS)
 - DevOps
 - Software Engineering
