@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Sanket Bacchanna
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00CFFF,100:0077ff&text=Sanket%20Bacchanna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
